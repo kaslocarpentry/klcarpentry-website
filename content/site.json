@@ -1,0 +1,69 @@
+{
+  "seo": {
+    "title": "Kootenay Lake Carpentry | Custom Builds in Kaslo, BC",
+    "description": "Owner-operated builder in Kaslo, BC. Custom homes, cabins, workshops, garages and energy upgrades around Kootenay Lake. Call (778) 205-4701."
+  },
+  "business": {
+    "name": "Kootenay Lake Carpentry",
+    "tagline": "Building with Distinction",
+    "phone": "(778) 205-4701",
+    "phoneLink": "+17782054701",
+    "email": "cshcarpentry@outlook.com",
+    "address": "Kaslo, BC V0G 1M0",
+    "facebook": "https://www.facebook.com/profile.php?id=61586979209274"
+  },
+  "hero": {
+    "headline": "Building with Distinction.",
+    "intro": "An owner-operated team building custom homes, cabins, shops and energy upgrades in the Kaslo area. We provide clear expectations and quality finishes throughout your project.",
+    "image": "/images/hero.jpg",
+    "imageAlt": "Timber-framed house under construction with a covered deck, forest and mountain behind",
+    "caption": "Strong, functional, and built with intention."
+  },
+  "proof": [
+    { "title": "Small, owner-operated team", "text": "Deal directly with the owner, from the first call to the finished build." },
+    { "title": "Confidence in the process", "text": "Know what to expect at each stage, from the first conversation to the finished build." },
+    { "title": "Quality you experience", "text": "Careful finish work, a warm, well-sealed building, and locally sourced materials." }
+  ],
+  "servicesTitle": "What we do",
+  "services": [
+    { "title": "Workshops and garages", "text": "Space for your tools, your vehicles and your projects." },
+    { "title": "Energy efficiency renovations and upgrades", "text": "Windows, air sealing and upgrades to optimize your home for the Kootenay climate." },
+    { "title": "Custom builds", "text": "New homes, cabins and additions, from the foundation up." },
+    { "title": "Foundation work", "text": "A solid start for whatever goes on top." },
+    { "title": "Unusual projects", "text": "Interesting jobs that do not fit a category. Ask us." }
+  ],
+  "workTitle": "Recent work",
+  "work": [
+    { "image": "/images/shop.jpg", "alt": "Shop with cedar shingle and dark board-and-batten siding on a concrete foundation, with a rock retaining wall", "caption": "A shop with cedar shingles and board-and-batten siding" },
+    { "image": "/images/shelter.jpg", "alt": "Timber post-and-beam shelter with a sloped roof, firewood storage and a shipping container, beside the lake", "caption": "Post-and-beam shelter with room for firewood and storage" },
+    { "image": "/images/timbers.jpg", "alt": "Cut timbers stacked on sawhorses under a timber-framed shelter in the forest", "caption": "Cut timbers, stacked and ready" },
+    { "image": "/images/foundation.jpg", "alt": "Foundation walls formed up on a hillside site with mountains behind", "caption": "Foundation walls formed up on a hillside site" }
+  ],
+  "about": {
+    "title": "About us",
+    "paragraphs": [
+      "Kootenay Lake Carpentry is a small, owner-operated team based in Kaslo, building since 2019. We take pride in work that is built right and finished well. We live in Kaslo, so we're often building for neighbours and friends. We want every client to feel comfortable throughout their project and beyond."
+    ]
+  },
+  "area": {
+    "title": "Where we work",
+    "paragraphs": [
+      "Kootenay Lake Carpentry is based in Kaslo and works throughout the Kaslo area.",
+      "Towns we serve: Kaslo, Ainsworth, Balfour, Lardeau, Meadow Creek and Argenta."
+    ]
+  },
+  "faqTitle": "Questions",
+  "faq": [
+    { "q": "Where do you work?", "a": "Kootenay Lake Carpentry is based in Kaslo, BC and works on Kootenay Lake in the Kaslo area, including Ainsworth, Lardeau and Meadow Creek." },
+    { "q": "What do you build?", "a": "Kootenay Lake Carpentry builds workshops and garages, custom homes and cabins, and foundations. It also does energy efficiency renovations and upgrades on existing buildings, and the occasional unusual project." },
+    { "q": "Who will I be dealing with?", "a": "Kootenay Lake Carpentry is a small, owner-operated team, so you deal directly with the owner from the first call to the finished build." },
+    { "q": "How do you handle costs?", "a": "Kootenay Lake Carpentry tracks costs against an agreed budget during the project, so you know where the money is going." },
+    { "q": "Can you make my older building more energy efficient?", "a": "Yes. Energy efficiency renovations and upgrades are one of the services Kootenay Lake Carpentry offers." },
+    { "q": "How do I get a quote?", "a": "To get a quote from Kootenay Lake Carpentry, call (778) 205-4701 or email cshcarpentry@outlook.com. Tell us what you want built, where it is, and roughly when you would like to start." }
+  ],
+  "contact": {
+    "title": "Tell us what you're planning.",
+    "text": "Call weekdays during business hours. If we are on a job site, leave a message and we will call you back within 2 to 3 days. You can also email us."
+  },
+  "footerLinkLabel": "Building in the Kootenays"
+}

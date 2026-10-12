@@ -1,0 +1,73 @@
+{
+  "seo": {
+    "title": "Building in the Kootenays | Suppliers and Tradespeople",
+    "description": "Local building suppliers, trades and RDCK permit information for projects around Kootenay Lake, chosen by Kootenay Lake Carpentry."
+  },
+  "headline": "Building in the Kootenays.",
+  "subheading": "Our preferred suppliers & tradespeople",
+  "groups": [
+    {
+      "title": "Permitting",
+      "items": [
+        {
+          "name": "RDCK building permit applications",
+          "url": "https://www.rdck.ca/development-community-sustainability-services/building/permit-application/",
+          "text": "Application forms, checklists and fees for the Regional District of Central Kootenay building department. Not sure which office covers your property? Ask the building department before you plan."
+        }
+      ]
+    },
+    {
+      "title": "Materials and site work",
+      "items": [
+        {
+          "name": "Kaslo Building Supplies",
+          "url": "https://kaslobuilding.com/",
+          "text": "Kaslo's only full service building supply store. Lumber and building materials, with estimates and delivery."
+        },
+        {
+          "name": "Terus Construction",
+          "url": "https://terusconstruction.ca/",
+          "text": "Ready-mix concrete and aggregates, plus road construction, paving, civil work and general contracting."
+        },
+        {
+          "name": "Brenton Industries",
+          "url": "https://www.brentonindustries.ca/",
+          "text": "A Kaslo-based company doing land development and local services for residents, municipalities and governments."
+        }
+      ]
+    },
+    {
+      "title": "Trades we work with",
+      "items": [
+        {
+          "name": "Pace Electric",
+          "url": "https://www.paceelectric.ca/",
+          "text": "Licensed, insured and bonded electricians. Wiring, panel upgrades and repairs for homes and commercial buildings."
+        },
+        {
+          "name": "J.P. Insulating",
+          "url": "https://jpinsulating.com/",
+          "text": "An insulation contractor in Nelson serving the Kootenay region. Blown-in cellulose, foam board, batts, spray foam and vapour barriers."
+        },
+        {
+          "name": "Matrix Refrigeration",
+          "url": "https://www.matrixrefrigeration.ca/",
+          "text": "Heating, cooling and refrigeration for homes and businesses in Nelson and the Kootenay Lake region. Heat pumps, ductless mini-splits, furnaces and ventilation."
+        }
+      ]
+    },
+    {
+      "title": "Windows",
+      "items": [
+        {
+          "name": "Ply Gem Canada windows",
+          "url": "https://www.plygem.ca/windows/",
+          "text": "Vinyl, aluminum-clad vinyl and aluminum-clad wood windows made in Canada."
+        }
+      ]
+    }
+  ],
+  "note": "Last checked October 2026. Details change, so confirm hours, services and fees with each business or office.",
+  "suggestLabel": "Know someone we should list? Email us.",
+  "contactTitle": "Planning a project? Tell us about it."
+}
